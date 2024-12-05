@@ -20,7 +20,6 @@ To run the HashingApp, follow these steps:
 2. Navigate to the project directory:
     ```
     cd HashingApp
-
 3. Install the required dependencies:
 
 Ensure you have Python 3 installed. Then, install Kivy:
